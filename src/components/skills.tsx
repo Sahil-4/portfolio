@@ -5,7 +5,7 @@ const Skills = () => {
   const categories = Object.keys(skills) as (keyof SkillsType)[];
 
   return (
-    <section className="p-6 bg-gray-800 text-white w-3xl my-0 mx-auto" id="skills_section">
+    <section className="p-6 bg-gray-800 text-white max-w-3xl my-0 mx-auto" id="skills_section">
       <h2 className="text-2xl font-bold text-yellow-400">Technologies I have worked with</h2>
       <div className="grid grid-cols-2 md:grid-cols-3 gap-4 mt-4">
         {categories.map((category) => {

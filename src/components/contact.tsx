@@ -1,6 +1,6 @@
 const Contact = () => {
   return (
-    <section className="p-6 bg-black text-white w-2xl my-0 mx-auto" id="contact_section">
+    <section className="p-6 bg-black text-white max-w-3xl my-0 mx-auto" id="contact_section">
       <h2 className="text-2xl font-bold text-yellow-400">Leave a message</h2>
       <form className="mt-4 space-y-3">
         <input type="text" placeholder="Your Name" className="w-full p-2 bg-gray-700 text-white rounded" />

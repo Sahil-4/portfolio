@@ -3,7 +3,7 @@ import projects from "@/data/projects.json";
 
 const Projects = () => {
   return (
-    <section className="p-6 bg-black text-white w-3xl my-0 mx-auto" id="projects_section">
+    <section className="p-6 bg-black text-white max-w-3xl my-0 mx-auto" id="projects_section">
       <h2 className="text-2xl font-bold text-yellow-400">Projects I have worked on</h2>
       <div className="flex justify-evenly gap-6 mt-4 flex-wrap">
         {projects.map((project) => (
