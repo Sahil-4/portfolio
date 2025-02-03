@@ -1,0 +1,8 @@
+{
+  "languages": ["JavaScript", "TypeScript", "C", "CPP"],
+  "frontend": ["HTML", "CSS", "JavaScript", "React", "Next.js", "Tailwind CSS", "TypeScript"],
+  "backend": ["Node.js", "Express", "Socket.IO", "GraphQL"],
+  "database": ["MongoDB", "PostgreSQL", "Redis", "FireStore", "Firebase"],
+  "devOps": ["Docker", "AWS", "Vercel"],
+  "tools": ["Git", "VS Code", "Figma"]
+}

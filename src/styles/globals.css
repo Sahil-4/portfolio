@@ -1,0 +1,50 @@
+@import "tailwindcss";
+
+/* globals.css */
+
+/* CSS Reset */
+
+/* @import "./variables.css";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100vw;
+  height: 100vh;
+}
+
+body {
+  line-height: 1.6;
+  color: var(--text-color);
+  background: var(--primary-color);
+}
+
+a {
+  color: var(--accent-color);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+} */
+
+/* Utility Classes */
+/* 
+._hidden_ {
+  display: none !important;
+}
+
+._flex_ {
+  display: flex;
+}
+
+._flex_center_ {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */

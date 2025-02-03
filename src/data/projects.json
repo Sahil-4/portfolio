@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Book Lend (Book Lending App)",
+    "description": "Book lending and app created using nextjs express and postgresql.",
+    "image": "/images/book-lend-project.png",
+    "source": "https://github.com/Sahil-4/book-lend",
+    "live": "https://github.com/Sahil-4/book-lend",
+    "demo": "https://github.com/Sahil-4/book-lend"
+  },
+  {
+    "title": "URL Shortener App",
+    "description": "A full-stack url shortener app created using React and Node.js. With self written OTP Verification logic.",
+    "image": "/images/url-shortener-project.png",
+    "source": "https://github.com/Sahil-4/url-shortener",
+    "live": "https://a-short.netlify.app/",
+    "demo": "https://a-short.netlify.app/"
+  },
+  {
+    "title": "Quotes App",
+    "description": "An Android application designed to Inspire and Motivate users with a Collection of powerful and inspiring quotes.",
+    "image": "/images/url-shortener-project.png",
+    "source": "https://github.com/Sahil-4/Quotes-App",
+    "live": "https://github.com/Sahil-4/Quotes-App",
+    "demo": "https://www.youtube.com/watch?v=4XS580ajZN8"
+  },
+  {
+    "title": "Stackoverflow Clone",
+    "description": "This is a clone of Stackoverflow",
+    "image": "/images/stackoverflow-clone-project.png",
+    "source": "https://github.com/Sahil-4/stackoverflow-clone",
+    "live": "https://x8086.netlify.app/",
+    "demo": "https://github.com/Sahil-4/stackoverflow-clone"
+  },
+  {
+    "title": "Rock Paper Scissor Game",
+    "description": "This is traditional rock paper scissors game with multiplayer support.",
+    "image": "/images/srpsgame-project.png",
+    "source": "https://github.com/Sahil-4/SRPSGame",
+    "live": "https://srpsgame.netlify.app/",
+    "demo": "https://github.com/Sahil-4/SRPSGame"
+  }
+]
