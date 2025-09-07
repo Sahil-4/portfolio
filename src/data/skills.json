@@ -1,8 +1,9 @@
 {
-  "languages": ["JavaScript", "TypeScript", "C", "CPP"],
-  "frontend": ["HTML", "CSS", "JavaScript", "React", "Next.js", "Tailwind CSS", "TypeScript"],
-  "backend": ["Node.js", "Express", "Socket.IO", "GraphQL"],
-  "database": ["MongoDB", "PostgreSQL", "Redis", "FireStore", "Firebase"],
-  "devOps": ["Docker", "AWS", "Vercel"],
-  "tools": ["Git", "VS Code", "Figma"]
+  "Languages": ["JavaScript", "TypeScript", "C", "C++"],
+  "Frontend": ["ReactJS", "Next.js", "HTML", "CSS", "Tailwind CSS"],
+  "Backend": ["Node.js", "Express.js", "Socket.IO", "GraphQL"],
+  "Database": ["MongoDB", "PostgreSQL", "Redis", "Firebase"],
+  "Devops": ["Docker", "Vercel", "Render", "Netlify"],
+  "Tools": ["Git", "GitHub", "VS Code", "Figma"],
+  "Cloud": []
 }

@@ -1,15 +1,17 @@
-import bio from "@/data/bio.json";
 import Link from "next/link";
+import bio from "@/data/bio.json";
 import { HeaderItem } from "@/types";
 
 const Header = () => {
   const name = bio.name;
+  const resumeURL = bio.resumeURL;
 
   const listItem: HeaderItem[] = [
     { name: "Skill", href: "#skills_section" },
     { name: "Project", href: "#projects_section" },
     { name: "Social", href: "#socials_section" },
     { name: "Contact", href: "#contact_section" },
+    { name: "Resume", href: resumeURL },
   ];
 
   return (

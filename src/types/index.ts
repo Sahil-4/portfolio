@@ -1,15 +1,12 @@
 type HeaderItem = {
-    name: string;
-    href: string;
-}
+  name: string;
+  href: string;
+};
 
-type SkillsType = {
-    frontend: string[];
-    backend: string[];
-    database: string[];
-    devOps: string[];
-    tools: string[];
-  };
-  
+type Skills = "Frontend" | "Backend" | "Database" | "Devops" | "Cloud" | "Tools";
 
-export type { HeaderItem, SkillsType };
+type TechnologyName = "string";
+
+type SkillsType = Record<Skills, TechnologyName[]>;
+
+export type { HeaderItem, Skills, TechnologyName, SkillsType };

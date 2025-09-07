@@ -4,8 +4,8 @@
     "description": "Book lending and app created using nextjs express and postgresql.",
     "image": "/images/book-lend-project.png",
     "source": "https://github.com/Sahil-4/book-lend",
-    "live": "https://github.com/Sahil-4/book-lend",
-    "demo": "https://github.com/Sahil-4/book-lend"
+    "live": "https://book-lend-frontend-topaz.vercel.app/",
+    "demo": "https://book-lend-frontend-topaz.vercel.app/"
   },
   {
     "title": "URL Shortener App",
@@ -18,13 +18,13 @@
   {
     "title": "Quotes App",
     "description": "An Android application designed to Inspire and Motivate users with a Collection of powerful and inspiring quotes.",
-    "image": "/images/url-shortener-project.png",
+    "image": "/images/quotes-app-project.png",
     "source": "https://github.com/Sahil-4/Quotes-App",
     "live": "https://github.com/Sahil-4/Quotes-App",
     "demo": "https://www.youtube.com/watch?v=4XS580ajZN8"
   },
   {
-    "title": "Stackoverflow Clone",
+    "title": "StackOverflow Clone",
     "description": "This is a clone of Stackoverflow",
     "image": "/images/stackoverflow-clone-project.png",
     "source": "https://github.com/Sahil-4/stackoverflow-clone",

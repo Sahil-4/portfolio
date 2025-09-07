@@ -3,8 +3,8 @@ import { Header } from "@/components";
 import "@/styles/globals.css";
 
 export const metadata: Metadata = {
-  title: "Alpha | Portfolio",
-  description: "Created using NextJS",
+  title: "Sahil | Portfolio",
+  description: "Sahil-4 portfolio",
 };
 
 export default function RootLayout({

@@ -1,7 +1,8 @@
 {
-  "name": "Alpha",
-  "role": "Full stack web developer",
-  "description": "A Full Stack Web Developer specializing in the MERN stack with a strong command of JavaScript and modern web technologies.\n\nI thrive on building scalable and high-performance web applications, leveraging technologies like ReactJS, NextJS, ExpressJS, and MongoDB. With experience in TypeScript, Redis, PostgreSQL, and Docker, I focus on crafting efficient, secure, and user-friendly solutions.\n\nFrom developing real-time applications with Socket.IO to managing databases and cloud services like Firebase, I enjoy tackling challenges that push my technical skills further.\n\nLet's create something amazing together! 🚀",
+  "name": "Sahil",
+  "role": "Full Stack Developer",
+  "resumeURL": "https://docs.google.com/document/d/1WcW1v4pr-6u1dgYy-98kCoV0XaGLttnKPrY02f2Bhlc",
+  "description": "Passionate about building scalable, high-performance web applications. I specialize in the MERN stack and have hands-on experience with modern tools and technologies like Next.js, TypeScript, Docker.",
   "socials": {
     "github": "https://github.com/Sahil-4",
     "linkedin": "https://www.linkedin.com/in/sahil4/"
